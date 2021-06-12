@@ -1,0 +1,1 @@
+# get_wmi_sku_and_serial
